@@ -1,0 +1,10 @@
+{
+  "AIR_TYPE": "工装平台的型号类别",
+  "TYPE": "对象类别:工装实例",
+  "TO_NO": "工装图号",
+  "ORDER_NO": "TO号",
+  "TO_NAME": "工装图纸名称",
+  "STATE": "对象状态",
+  "PAGESIZE": "10",
+  "PAGENUMBER": "0"
+}
